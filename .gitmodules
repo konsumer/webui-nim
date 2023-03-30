@@ -1,0 +1,3 @@
+[submodule "src/clib"]
+	path = src/clib
+	url = https://github.com/alifcommunity/webui.git
